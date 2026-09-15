@@ -1,0 +1,170 @@
+[
+    {
+        "Name": "Gilkun",
+        "PW": "12345",
+        "Coin": 429,
+        "Fuel": 0,
+        "Wins": 11,
+        "TotalCoin": 983,
+        "Friends": [
+            "Alex",
+            "Bella",
+            "Charlie",
+            "Diana",
+            "Eve",
+            "Felix",
+            "Grace",
+            "Hugo",
+            "Iris",
+            "Jack",
+            "Marja",
+            "Mercan",
+            "Raid"
+        ]
+    },
+    {
+        "Name": "Raid",
+        "PW": "34567",
+        "Coin": 300,
+        "Fuel": 0,
+        "Wins": 5,
+        "TotalCoin": 620,
+        "Friends": [
+            "Gilkun"
+        ]
+    },
+    {
+        "Name": "Mercan",
+        "PW": "34567",
+        "Coin": 350,
+        "Fuel": 0,
+        "Wins": 7,
+        "TotalCoin": 890,
+        "Friends": [
+            "Gilkun",
+            "Marja"
+        ]
+    },
+    {
+        "Name": "Marja",
+        "PW": "boiler",
+        "Coin": 29,
+        "Fuel": 0,
+        "Wins": 0,
+        "TotalCoin": 29,
+        "Friends": []
+    },
+    {
+        "Name": "Alex",
+        "PW": "1234",
+        "Coin": 712,
+        "Fuel": 5,
+        "Wins": 18,
+        "TotalCoin": 2450,
+        "Friends": [
+            "Bella",
+            "Charlie"
+        ]
+    },
+    {
+        "Name": "Bella",
+        "PW": "1234",
+        "Coin": 45,
+        "Fuel": 0,
+        "Wins": 3,
+        "TotalCoin": 310,
+        "Friends": [
+            "Alex"
+        ]
+    },
+    {
+        "Name": "Charlie",
+        "PW": "1234",
+        "Coin": 1200,
+        "Fuel": 12,
+        "Wins": 25,
+        "TotalCoin": 4100,
+        "Friends": [
+            "Alex",
+            "Diana"
+        ]
+    },
+    {
+        "Name": "Diana",
+        "PW": "1234",
+        "Coin": 88,
+        "Fuel": 2,
+        "Wins": 9,
+        "TotalCoin": 770,
+        "Friends": [
+            "Charlie",
+            "Eve"
+        ]
+    },
+    {
+        "Name": "Eve",
+        "PW": "1234",
+        "Coin": 530,
+        "Fuel": 0,
+        "Wins": 14,
+        "TotalCoin": 1820,
+        "Friends": [
+            "Diana",
+            "Felix"
+        ]
+    },
+    {
+        "Name": "Felix",
+        "PW": "1234",
+        "Coin": 0,
+        "Fuel": 0,
+        "Wins": 0,
+        "TotalCoin": 15,
+        "Friends": [
+            "Eve"
+        ]
+    },
+    {
+        "Name": "Grace",
+        "PW": "1234",
+        "Coin": 275,
+        "Fuel": 3,
+        "Wins": 6,
+        "TotalCoin": 590,
+        "Friends": []
+    },
+    {
+        "Name": "Hugo",
+        "PW": "1234",
+        "Coin": 999,
+        "Fuel": 8,
+        "Wins": 20,
+        "TotalCoin": 3300,
+        "Friends": [
+            "Iris",
+            "Jack"
+        ]
+    },
+    {
+        "Name": "Iris",
+        "PW": "1234",
+        "Coin": 160,
+        "Fuel": 1,
+        "Wins": 2,
+        "TotalCoin": 440,
+        "Friends": [
+            "Hugo"
+        ]
+    },
+    {
+        "Name": "Jack",
+        "PW": "1234",
+        "Coin": 410,
+        "Fuel": 0,
+        "Wins": 12,
+        "TotalCoin": 1550,
+        "Friends": [
+            "Hugo"
+        ]
+    }
+]
